@@ -1,7 +1,7 @@
 # ipconfig-with-applet
 
 <h6>In the Windows environment, this is an application that gets the mac addresses of the client system through the ipconfig program.
-Modify the java.policy file of the JRE as follows.</h6>
+Modify the java.policy file (C:\Program Files (x86)\Java\jre1.8.0_151\lib\security\java.policy) of the JRE as follows.</h6>
 
 ```
 grant {
